@@ -2,10 +2,10 @@
 
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.milfalcon.hotslider"
+        id        = "com.milfalcon.testuploader"
         version   = "1.1">
 
-    <name>Hot Slider</name>
+    <name>Test Uploader</name>
 
     <description>
       Uploader
